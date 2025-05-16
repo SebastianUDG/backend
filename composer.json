@@ -1,0 +1,5 @@
+{
+  "name": "backend",
+  "description": "Backend PHP para Railway",
+  "require": {}
+}
